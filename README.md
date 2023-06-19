@@ -4,11 +4,12 @@ The project is to create a members-only blog website, providing a secure platfor
 # Built with
 This section consist of list of major frameworks that were used in our project. Additionally add-ons/plugins are mentioned in the acknowledgements section. Here are a few examples.
 
-Javascript
-CSS
-MySQL
-php
-Bootstrap
+% Javascript
+% CSS
+% MySQL
+% php
+% Bootstrap
+% Ajax
 
 # Website preview
 1. Home page
