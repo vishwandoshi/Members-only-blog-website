@@ -1,43 +1,26 @@
-# Members-only-blog-website
-The project is to create a members-only blog website, providing a secure platform for users to share and engage in discussions. Features include user registration, blog post creation, commenting, and social integration. Our goal is to foster an interactive community where members can connect, learn, and share their perspectives.
+# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
-# Built with
-This section consist of list of major frameworks that were used in our project. Additionally add-ons/plugins are mentioned in the acknowledgements section. Here are a few examples.
+[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-% Javascript
-% CSS
-% MySQL
-% php
-% Bootstrap
-% Ajax
+## Getting Started
 
-# Website preview
-1. Home page
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/78d628f3-903d-4d51-8fed-5ede93b311e3)
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-2. About page
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/cebbb8bb-8374-445f-81b2-e136cc4279c2)
+## Bugs and Issues
 
-3. Blog page before login(can be only accessed once logged in)
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/0bb4fe43-fd45-48f3-8c83-524d36f1f9da)
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
 
-4. Blog page after logging in(can be accessed now)
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/ff17dad0-1fde-4af8-b7d0-ea581c489b8f)
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/f65bf73a-db67-4d94-80fa-802133fac25c)
+## Creator
 
-5. Contact page
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/ab055ee5-0cea-4c96-b188-e0831c10e755)
-![image](https://github.com/vishwandoshi/Members-only-blog-website/assets/97663916/c04eb155-2330-40e5-b973-bae8dd0efff7)
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-# Prerequisites
-To run this project on your PC you will need 'wampserver'.
-you can install wampserver from: https://sourceforge.net/projects/wampserver/    this link.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+## Copyright and License
 
-
-
-
-
-
-
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
